@@ -19,9 +19,11 @@ def calcular_polos_corrigido(Kp):
         s1 = complex(real_part, imag_part)
         s2 = complex(real_part, -imag_part)
     return s1, s2
-
-# Calculando polos corrigidos para os valores de Kp
-Kp_values = [1, 5, 10, 20, 50]
-poles_corrected = [calcular_polos_corrigido(Kp) for Kp in Kp_values]
-poles_corrected
+if __name__ == "__main__":
+    # Calculando polos corrigidos para os valores de Kp
+    Kp_values = [1, 5, 10, 20, 50]
+    poles_corrected = [calcular_polos_corrigido(Kp) for Kp in Kp_values]
+    
+    for i, j in enumerate(poles_corrected):
+        print(f"a raiz {i} é {j}")
     
