@@ -25,5 +25,5 @@ if __name__ == "__main__":
     poles_corrected = [calcular_polos_corrigido(Kp) for Kp in Kp_values]
     
     for i, j in enumerate(poles_corrected):
-        print(f"a raiz {i} é {j}")
+        print(f"a raiz para o kp de  {Kp_values[i]} é {j}")
     
