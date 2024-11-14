@@ -42,7 +42,7 @@ int main() {
     float saida_crisp = defuzzificacao(fuzzy_saida);
 
     printf("Saída fuzzy: %.2f\n", fuzzy_saida);
-    printf("Saída crisp (defuzzificada): %.2f\n", saida_crisp);
+    printf("Saída crisp (defuzzificada): %2f\n", saida_crisp);
 
     return 0;
 }
