@@ -68,3 +68,4 @@ plt.ylabel("Saída y")
 
 plt.tight_layout()
 plt.show()
+    
