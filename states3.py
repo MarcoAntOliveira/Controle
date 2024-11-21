@@ -55,7 +55,7 @@ def draw_rotation_arrow(ax, center, radius, start_angle, end_angle, z_offset=0, 
     # Normaliza a direção da seta
     dx /= magnitude
     dy /= magnitude
-    dz /= magnitude
+    dz /= magnitude 
 
     # Ponta da seta
     ax.quiver(
