@@ -150,7 +150,7 @@ draw_rotation_arrow_x(ax, center=(0.5, 0, 0), radius=0.25, start_angle=0, end_an
 
 ax.quiver(0, 0, 0, 0, 1, 0, color='orange', linewidth=1.5, label='Pitch (θ)')
 
-draw_rotation_arrow_y(ax, center=(0, 0.5, 0), radius=0.25, start_angle=0, end_angle=300, y_offset=0.1,  color='orange')
+draw_rotation_arrow_y(ax, center=(0, 0.5, 0), radius=0.25, start_angle=300, end_angle=0, y_offset=0.1,  color='orange')
 
 ax.quiver(0, 0, 0, 0, 0, 1, color='purple', linewidth=1.5, label='Yaw (ψ)')
 
