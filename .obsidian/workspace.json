@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "bad2225135ed8d93",
+    "type": "split",
+    "children": [
+      {
+        "id": "066333da30850dd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37032f6942687981",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Richard C. Dorf _ Robert H. Bishop - Sistemas de Controle Modernos-LTC.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Richard C. Dorf _ Robert H. Bishop - Sistemas de Controle Modernos-LTC"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b95a5c7ddf7a23f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa13f55d1133fb4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b450e7293040bc3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cafe5efd36d0e1d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "04549851ac157e5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "49453bd5304abe40",
+    "type": "split",
+    "children": [
+      {
+        "id": "95aa0e31de4a7791",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2cbcc87a67600ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Richard C. Dorf _ Robert H. Bishop - Sistemas de Controle Modernos-LTC.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Richard C. Dorf _ Robert H. Bishop - Sistemas de Controle Modernos-LTC"
+            }
+          },
+          {
+            "id": "175b22e9da5893a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Richard C. Dorf _ Robert H. Bishop - Sistemas de Controle Modernos-LTC.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Richard C. Dorf _ Robert H. Bishop - Sistemas de Controle Modernos-LTC"
+            }
+          },
+          {
+            "id": "629a9c0df20cb7a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "16ed770b62242086",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Richard C. Dorf _ Robert H. Bishop - Sistemas de Controle Modernos-LTC.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Richard C. Dorf _ Robert H. Bishop - Sistemas de Controle Modernos-LTC"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "37032f6942687981",
+  "lastOpenFiles": []
+}
